@@ -1,6 +1,5 @@
 # BookMyFit
-
-If you’re looking for a website for your gym, BookMyFit is a great option. It has a clean and modern look, and comes with useful features like a built-in timetable. CoreFit is also responsive to all devices, so users can view the site on any screen size.
+A modern and responsive fitness management app built with React.js and Tailwind CSS. It allows users to track workouts, manage gym memberships, schedule training sessions, and monitor fitness progress—all with a sleek, user-friendly interface optimized for performance and usability.
 
 ## Tech Stack
 
@@ -12,5 +11,6 @@ TailwindCSS<br/>
 ## Screenshot
 
 <img align="center" alt="readme_image" src="assets/ui.png" />
+
 
 
