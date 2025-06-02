@@ -11,6 +11,10 @@ TailwindCSS<br/>
 ## Screenshot
 
 <img align="center" alt="readme_image" src="assets/ui.png" />
+<img align="center" alt="readme_image" src="assets/ui2.png" />
+<img align="center" alt="readme_image" src="assets/ui3.png" />
+<img align="center" alt="readme_image" src="assets/ui4.png" />
+<img align="center" alt="readme_image" src="assets/ui5.png" />
 
 
 
